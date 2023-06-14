@@ -1,11 +1,17 @@
-- Hi, I’m Manvendra Singh Rawat
-- Currently studying in University of Petroleum and Energy Studies in B.Tech Computer Science Engineering (CSE)
-- I have specialization in Graphics and Gaming
-- I’m interested in fullstack game developer currently I am focusing on Programming, blueprinting, and lighting of the level in Unreal Engine.
-- I’m currently learning Unreal Engine and also creating a documentation of my own for easy access
-- I’m looking to collaborate on Unreal Engine and game development
-- Contact me at: manvendrasingh.r11@gmail.com
-<!---
-Manvendra-Singh-Rawat/Manvendra-Singh-Rawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I am Manvendra Singh Rawat.
+An engineer with bachelor's in Computer Science, I also do game development with experience in:
+1. Unreal Engine (1.5 years)
+- Blueprint: (Intermediate)
+- C++: (Intermediate)
+- Niagara VFX: (Intermediate)
+- Materials: (Intermediate)
+- Animations: (Beginner)
+
+2. Unity3D (2 years)
+- C#: (Intermediate)
+- Particle effects: (intermediate)
+
+3. Adobe Photoshop (beginner)
+- uses to create different textures
+
+I have experience in both 2D and 3D games.
