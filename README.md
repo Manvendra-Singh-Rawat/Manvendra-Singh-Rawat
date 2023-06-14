@@ -15,3 +15,5 @@ An engineer with bachelor's in Computer Science, I also do game development with
 - uses to create different textures
 
 I have experience in both 2D and 3D games.
+
+Contact me: manvendrasingh.r11@gmail.com
