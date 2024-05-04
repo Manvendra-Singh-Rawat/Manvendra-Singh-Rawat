@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manvendra Singh Rawat</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
 
-- 🔭 I’m currently working on **Zombie game**
+<!-- - 🔭 I’m currently working on **Zombie game** -->
 
 - 💬 Ask me about **Unreal Engine, C++, C#, VFX**
 
