@@ -39,9 +39,11 @@
 
 ---
 
-### 📈 Current Focus
+### 📂 Projects Worth Checking
 
-```txt
-📌 Improving backend architecture using Clean Code principles  
-📌 Learning Unreal Engine's networking stack  
-📌 Personal projects that combine backend with game development
+| 🚀 Project | 🔧 Stack | 📄 Description |
+|-----------|----------|----------------|
+| **🧵 Real-Time Messenger (WIP)** | .NET 9, SignalR, JWT, PostgreSQL | A WhatsApp-style clone with real-time messaging, offline queue (message store & forward), secure JWT-based auth, and broadcast to user/group. |
+| **🎤 Voice Chat App** | .NET (MAUI), NAudio, RTP/SRTP, UDP | Low-latency voice chat using raw UDP, RTP header handling, and audio encoding—designed for real-time group communication. |
+| **🎮 UE5 Multiplayer Template (Learning)** | Unreal Engine 5, C++ | Modular multiplayer setup using dedicated servers and Steam integration. Focus on replication, RPCs, and subsystem-based design. |
+| **🛠️ Email Sender Service** | .NET Core, SMTP | Simple and secure mail service with async email dispatch, config-driven credentials, and a pluggable interface. Great for scalable apps. |
