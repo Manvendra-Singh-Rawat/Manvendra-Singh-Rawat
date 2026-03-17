@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Manvendra Singh</h1>
 <p align="center">
-  🚀 Backend Developer | 🎮 Game Dev Learner | 💻 Passionate about Clean Code
+  🚀 Backend Developer | 💻 Passionate about Clean Code
 </p>
 
 ---
@@ -8,7 +8,6 @@
 ### 💡 About Me
 
 - 🛠️ Currently diving deep into **.NET**, **SignalR**, and **real-time systems**.
-- 📚 Actively learning **C++** and **Unreal Engine** with a focus on **multiplayer systems**, dedicated servers, and Steam integration.
 - 🧱 Building a **WhatsApp-like messaging system** using:
   - JWT Auth
   - SignalR (real-time communication)
@@ -27,13 +26,8 @@
 - 🗃️ PostgreSQL / Redis
 - 🐳 Docker / CI-CD (in progress)
 
-#### Game Dev
-- 🎮 Unreal Engine 5 (C++, Blueprints)
-- ⚙️ Multiplayer logic (Steam Subsystem, Dedicated Server)
-- 🧠 Learning core DSA to improve low-level game logic
-
 #### Tools & IDEs
-- 🛠️ Visual Studio / VS Code / Rider
+- 🛠️ Visual Studio / VS Code
 - 🔍 Git, GitHub Projects, GitHub Actions
 - ☁️ AWS Basics
 
